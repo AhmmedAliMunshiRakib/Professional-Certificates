@@ -71,9 +71,9 @@ This repository is maintained for **portfolio, job application, and client verif
 
 ##  About Me
 
-**Name:** Ahmmed Ali Munshi Rakib
-
-**Profession:** Data Analyst | Excel & Power BI Specialist
+* **Name:** Ahmmed Ali Munshi Rakib
+* **Background:** Diploma in Engineering Graduate
+* **Career Focus:** Data Analysis | Excel | Power BI
 
 ###  Core Skills
 
@@ -89,4 +89,3 @@ This repository is maintained for **portfolio, job application, and client verif
 * **GitHub:** [https://github.com/AhmmedAliMunshiRakib](https://github.com/AhmmedAliMunshiRakib)
 * **Twitter:** [https://x.com/rakib5839](https://x.com/rakib5839)
 ---
-
