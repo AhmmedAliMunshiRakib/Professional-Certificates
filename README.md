@@ -33,7 +33,10 @@ This repository is maintained for **portfolio, job application, and client verif
 ###  Professional & Technical Training
 
 [Computer Application Certificate](https://github.com/AhmmedAliMunshiRakib/Professional-Certificates/blob/main/Computer%20Application%20Certificate.jpg)
+---
 
+### English course Certificates
+[English Therapy Certificate](https://github.com/AhmmedAliMunshiRakib/Professional-Certificates/blob/main/English%20Therapy%20Certificate.jpg)
 ---
 ##  Certificate Categories
 
